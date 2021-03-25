@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  🧠 Aplicação de gerenciamento de tarefas - (ToDo).
+  🧠 Aplicação de listagem e cadastro de usuários
 </p>
 
 ---
