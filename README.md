@@ -74,13 +74,13 @@ A rota deve receber, pelo header da requisição, uma propriedade `user_id` cont
 
 ### 🤨 Observações
 
-Você pode ter acesso à documentação no Notion sobre as rotas e testes clicando [aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72).
+Você pode ter acesso à documentação no Notion sobre as rotas e testes do desafio 2-1 clicando [aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72), e do desafio 2-2 clicando [aqui](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f)
 
 ---
 
 ### 📜 LIcença
 
-Esse projeto está sob a licença do MIT. Veja o arquivo [LICENSE](./LICENSE).
+Esse projeto está sob a licença do MIT. Veja o arquivo do desafio [LICENSE](./LICENSE).
 
 ---
 
